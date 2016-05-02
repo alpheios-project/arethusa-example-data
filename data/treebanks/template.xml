@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<treebank version="1.5"
+  xml:lang="lat" format="elmlatch1">
+  <sentence id="1"> 
+    <word id="1" form="Cum" lemma="cum1" postag="" head="" relation="" />
+    <word id="2" form="esset" lemma="sum1" postag="" head="" relation="" />
+    <word id="3" form="adduceretur" lemma="adduco1" postag="" head="" relation=""/>
+  </sentence>
+</treebank>
