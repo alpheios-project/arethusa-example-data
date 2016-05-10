@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank version="1.5"
+   xml:lang="lat" format="sanskrit"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
+   xsi:schemaLocation="http://nlp.perseus.tufts.edu/syntax/treebank/1.5 treebank-1.5.xsd">
+   <date>2016-05-09 13:33:41 +0000</date>
+   
+   <annotator>
+      <short>rhododaktylos</short>
+      <name>Antonia Ruppel</name>
+      <address>rhododaktylos@gmail.com</address>
+      <uri>http://data.perseus.org/sosol/users/rhododaktylos</uri>
+   </annotator>
+   <sentence id="1" document_id="sankrit.demo1" subdoc="" span="">
+      <word id="1" form="staḥ" lemma="as" postag="v3dpia---" relation="PRED" head="0"/>
+      <word id="2" form="rājānau" lemma="rājānau" postag="n-d---mn-" relation="SBJ" head="1"/>
+      <word id="3" form="vyāghreṇa" lemma="vyāghreṇa" postag="n-s---mi-" relation="ADV" head="1"/>
+      <word id="4" form="hatau" lemma="hatau" postag="v-dpptamnp" relation="ATR" head="2"/>
+      <word id="5" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+   <sentence id="2" document_id="sanskrit.demo2" subdoc="" span="">
+      <word id="1" form="rājaputraḥ" lemma="rājaputraḥ" postag="n-s---mn-" relation="SBJ" head="7"/>
+      <word id="2" form="tad" lemma="tad" postag="p-s---na-" relation="OBJ" head="7"/>
+      <word id="3" form="śrutvā" lemma="śrutvā" postag="v-spa----" relation="ADV" head="7"/>
+      <word id="4" form="aho" lemma="aho" postag="e--------" relation="AuxZ" head="7"/>
+      <word id="5" form="bata" lemma="bata" postag="e--------" relation="AuxZ" head="7"/>
+      <word id="6" form="iti" lemma="iti" postag="g--------" relation="AuxY" head="7"/>
+      <word id="7" form="bhāṣate" lemma="bhāṣate" postag="v3spim---" relation="" head="0"/>
+      <word id="8" form="." lemma="punc1" postag="u--------" relation="AuxK" head="0"/>
+   </sentence>
+</treebank>
