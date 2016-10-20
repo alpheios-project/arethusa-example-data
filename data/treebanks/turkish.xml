@@ -3,4 +3,15 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:treebank="http://nlp.perseus.tufts.edu/syntax/treebank/1.5"
 xsi:schemaLocation="http://nlp.perseus.tufts.edu/syntax/treebank/1.5 treebank-1.5.xsd">
+
+   <sentence id="1" document_id="turkish.demo1" subdoc="" span="">
+      <word id="1" form="Zeus" lemma="zeus" postag="---------" relation="ÖZN" head=""/>
+      <word id="2" form="sonunda" lemma="sonunda" postag="---------" relation="BLT" head=""/>
+      <word id="3" form="devirdi" lemma="devirmek" postag="---------" relation="YÜK" head=""/>
+      <word id="4" form="babasını" lemma="baba" postag="---------" relation="NES" head=""/>
+      <word id="5" form="." lemma="punc1" postag="---------" relation="YarN" head=""/>
+      <word id="6" form="." lemma="punc1" postag="---------" relation="YarN" head=""/>
+      <word id="7" form="." lemma="punc1" postag="---------" relation="YarN" head=""/>
+   </sentence>
+  
 </treebank>
